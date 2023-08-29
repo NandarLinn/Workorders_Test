@@ -1,0 +1,6 @@
+fastapi
+SQLAlchemy
+langchain
+openai
+langchain_experimental
+python-dateutil
