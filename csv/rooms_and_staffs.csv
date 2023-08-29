@@ -1,0 +1,33 @@
+room_number,room_type,room_status,staff_id,staff_name,role,status
+A001,single,vacant,MDSP01,Joey,MAID SUPERVISOR,active
+A002,single,vacant,MD001,Billie,MAID,available
+A003,double,vacant,MD002,Alex,MAID,available
+A004,double,vacant,MD003,Bob,MAID,available
+A005,double,vacant,MD004,Christina,MAID,available
+A006,double,vacant,MD005,James,MAID,available
+A007,twin,vacant,MD006,Emma,MAID,available
+A008,twin,vacant,MD007,Mia,MAID,available
+B001,single,vacant,MD008,Ava,MAID,available
+B002,single,vacant,SUP001,Noel,SUPERVISOR,active
+B003,double,vacant,TECH001,John,TECHNICIAN,available
+B004,double,vacant,TECH002,David,TECHNICIAN,available
+B005,double,vacant,TECH003,Daniel,TECHNICIAN,available
+B006,double,vacant,TECH004,Michael,TECHNICIAN,available
+B007,twin,vacant,TECH005,Oliver,TECHNICIAN,available
+B008,twin,vacant,CLN001,Gary,CLEANING STAFF,available
+D001,single,vacant,CLN002,Kathleen,CLEANING STAFF,available
+D002,single,vacant,CLN003,Nicholas,CLEANING STAFF,available
+D003,double,vacant,CLN004,Angela,CLEANING STAFF,available
+D004,double,vacant,CLN005,Eric,CLEANING STAFF,available
+D005,double,vacant,CLN006,Shirley,CLEANING STAFF,available
+D006,double,vacant,CLN007,Stephen,CLEANING STAFF,available
+D007,twin,vacant,CLN008,Scott,CLEANING STAFF,available
+D008,twin,vacant,TMP001,Temporary,Temporary,available
+E001,single,vacant,,,,
+E002,single,vacant,,,,
+E003,double,vacant,,,,
+E004,double,vacant,,,,
+E005,double,vacant,,,,
+E006,double,vacant,,,,
+E007,twin,vacant,,,,
+E008,twin,vacant,,,,
